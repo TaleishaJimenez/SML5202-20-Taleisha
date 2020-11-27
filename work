@@ -1,0 +1,15 @@
+<html>
+<h1 style="background-color:LightGray;">Welcome</h1>
+<h2 style="color:MediumSeaGreen;">Introduction</h2>
+<p style="border:2px solid Violet;">Hi. My name is Taleisha and this is my experimental website for course module <b>SML5202</b></p>
+<p>Here are some facts about me</p>
+<ol>
+<li>I am learning Arabic</li>
+<li>I have 5 siblings</li>
+<li>My family are from Gibraltar</li>
+<ol>
+
+<p>My favourite language learning website is<a href="https://www.duolingo.com/learn"> Duolingo.com!</a></p>
+<hr>
+<p>Last updated 20<sup>th</sup> October </p>
+</html>
